@@ -1,0 +1,26 @@
+
+	.one{
+		width: 30%; /*largo*/
+		height: 20%;/* ancho */
+		display: inline-block;
+		margin-top: 15px;
+		background: #f7ba0d;
+	}
+	.two{
+		width: 30%; /*largo*/
+		height: 20%;/* ancho */
+		display: inline-block;
+		margin-top: 25px;
+		background: #1d1b24;
+		color: #fff;
+		text-align: center;
+	}
+	.three{
+		width: 30%; /*largo*/
+		height: 20%;/* ancho */
+		display: inline-block;
+		margin-top: 15px;
+		background: #f7ba0d;
+	}
+
+
